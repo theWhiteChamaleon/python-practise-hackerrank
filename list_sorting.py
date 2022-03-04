@@ -1,0 +1,7 @@
+n = int(input())
+arr = map(int, input().split())
+lad = list(arr).sort()
+print(lad)
+lad.sort()
+print(lad)
+#print(sorted(lad))
